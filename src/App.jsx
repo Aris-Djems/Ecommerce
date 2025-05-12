@@ -3,13 +3,15 @@ import './App.css'
 import { Accueil } from './page/accueil'
 import Header from './components/header'
 import Footer from './components/footer'
+import Article from './page/article'
 
 function App() {
 
   return (
     <>
       <Header/>
-      <Accueil />
+      {/* <Accueil /> */}
+      <Article />
       <Footer />
     </>
   )
