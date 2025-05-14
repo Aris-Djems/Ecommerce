@@ -6,20 +6,20 @@ import { FaCalendar, FaImage, FaQuoteLeft, FaStar } from "react-icons/fa";
 import { SlCalender } from "react-icons/sl";
 
 // Components imports
-import image1 from '../assets/image/image1.jpg'
-import image2 from '../assets/image/image2.jpg'
-import image3 from '../assets/image/image3.jpg'
-import image4 from '../assets/image/image4.jpg'
-import image5 from '../assets/image/image5.jpg'
-import image6 from '../assets/image/image6.jpg'
-import image7 from '../assets/image/image7.jpg'
-import image8 from '../assets/image/image8.jpg'
-import image9 from '../assets/image/image9.jpg'
-import image10 from '../assets/image/image10.jpg'
-import image11 from '../assets/image/image11.jpg'
-import image12 from '../assets/image/image12.jpg'
-import image13 from '../assets/image/image13.jpg'
-import image14 from '../assets/image/image14.jpg'
+import image1 from '../assets/image/nike_dunk/image1.jpg'
+import image2 from '../assets/image/nike_dunk/image2.jpg'
+import image3 from '../assets/image/nike_dunk/image3.jpg'
+import image4 from '../assets/image/nike_dunk/image4.jpg'
+import image5 from '../assets/image/nike_dunk/image5.jpg'
+import image6 from '../assets/image/nike_dunk/image6.jpg'
+import image7 from '../assets/image/nike_dunk/image7.jpg'
+import image8 from '../assets/image/nike_dunk/image8.jpg'
+import image9 from '../assets/image/nike_dunk/image9.jpg'
+import image10 from '../assets/image/nike_dunk/image10.jpg'
+import image11 from '../assets/image/nike_dunk/image11.jpg'
+import image12 from '../assets/image/nike_dunk/image12.jpg'
+import image13 from '../assets/image/nike_dunk/image13.jpg'
+import image14 from '../assets/image/nike_dunk/image14.jpg'
 import { MdAttachEmail } from "react-icons/md";
 import { GiPositionMarker } from "react-icons/gi";
 
